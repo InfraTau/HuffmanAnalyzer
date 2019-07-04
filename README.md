@@ -1,5 +1,5 @@
 # Huffman Coding Analyzer
-Huffman Coding Analyzer is a simple program that performs static and dynamic Huffman coding on a file, and compares the algorithms' running times. Made for Design and Analysis of Algorithms course in my university.
+Huffman Coding Analyzer is a simple program that performs static and dynamic Huffman coding on a file, and compares the algorithms' compression ratio and running times. Made for Design and Analysis of Algorithms course in my university.
 
 ## Running The Project
 To run the project, download the files and compile the project against .NET Framework 4.
